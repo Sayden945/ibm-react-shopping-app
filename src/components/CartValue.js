@@ -9,7 +9,7 @@ const CartValue = () => {
 
     return (
         <div className='alert alert-primary'>
-            <span>Cart Value: {Location}{totalExpenses}</span>
+            <span>Total Value: {Location}{totalExpenses}</span>
         </div>
     );
 };
